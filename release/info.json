@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "MetamagicExtendedQuickenedSpell",
+      "UUID": "46ad1e3b-34fa-4c89-967f-296b2e7dff80",
+      "folderName": "MetamagicExtendedQuickenedSpell",
+      "Description": "Restores the cost of Quickened Spell to 2 Sorcery Points",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
